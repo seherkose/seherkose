@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Hi, I’m Seher<br>👩🏼‍💻 I’m currently learning on UIKit <br>📫 How to reach me: seherkose1@outlook.com
+👋🏻 Hi, I’m Seher<br>👩🏼‍💻 I’m currently learning UIKit <br>📫 How to reach me: seherkose1@outlook.com
 
 
 # 💻 Tech Stack:
