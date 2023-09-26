@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Hi, I’m Seher<br>👩🏼‍💻 I’m currently learning UIKit <br>📫 
+👋🏻 Hi, I’m Seher<br>👩🏼‍💻 I’m currently learning UIKit <br>
 
 
 # 💻 Tech Stack:
